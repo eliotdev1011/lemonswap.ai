@@ -318,7 +318,7 @@ const $n = {
       return {
         t: e,
         directPage: () => {
-          window.open("https://app.appleswap.ai/swap", "blank");
+          window.open("https://app-lemonswap-ai.vercel.app/swap", "blank");
         },
       };
     },
@@ -901,16 +901,16 @@ const io = E({
               window.open("https://pro.appleswap.ai/", "blank");
               break;
             case "/swap":
-              window.open("https://app.appleswap.ai/swap", "blank");
+              window.open("https://app-lemonswap-ai.vercel.app/swap", "blank");
               break;
             case "/more-service/staking":
-              window.open("https://app.appleswap.ai/stake", "blank");
+              window.open("https://app-lemonswap-ai.vercel.app/stake", "blank");
               break;
             case "/more-service/liquidity":
-              window.open("https://app.appleswap.ai/pools", "blank");
+              window.open("https://app-lemonswap-ai.vercel.app/pools", "blank");
               break;
             case "/more-service/farming":
-              window.open("https://app.appleswap.ai/farm", "blank");
+              window.open("https://app-lemonswap-ai.vercel.app/farm", "blank");
               break;
             case "/roadmap":
               D.currentRoute.value.name !== "Home"
@@ -1931,16 +1931,16 @@ const To = E({
               window.open("https://pro.appleswap.ai/", "blank");
               break;
             case "/more-service/staking":
-              window.open("https://app.appleswap.ai/stake", "blank");
+              window.open("https://app-lemonswap-ai.vercel.app/stake", "blank");
               break;
             case "/more-service/liquidity":
-              window.open("https://app.appleswap.ai/pools", "blank");
+              window.open("https://app-lemonswap-ai.vercel.app/pools", "blank");
               break;
             case "/more-service/farming":
-              window.open("https://app.appleswap.ai/farm", "blank");
+              window.open("https://app-lemonswap-ai.vercel.app/farm", "blank");
               break;
             case "/swap":
-              window.open("https://app.appleswap.ai/swap", "blank");
+              window.open("https://app-lemonswap-ai.vercel.app/swap", "blank");
               break;
             case "/roadmap":
               D.currentRoute.value.name !== "Home"
@@ -3016,7 +3016,7 @@ const rs = {
         IconLogo: as,
         directPage: () => {
           window.open(
-            "https://app.appleswap.ai/swap?currency0=0x55d398326f99059fF775485246999027B3197955&currency1=0x0c59d2Dc24798Ff6869DE428aA931A862C4E9994",
+            "https://app-lemonswap-ai.vercel.app/swap?currency0=0x55d398326f99059fF775485246999027B3197955&currency1=0x0c59d2Dc24798Ff6869DE428aA931A862C4E9994",
             "blank"
           );
         },

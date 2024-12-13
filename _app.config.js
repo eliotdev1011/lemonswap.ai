@@ -1,5 +1,5 @@
 window.__PRODUCTION__LANDING_APPLESWAP__CONF__ = {
-  VITE_GLOB_APP_TITLE: "AppleSwap",
+  VITE_GLOB_APP_TITLE: "LemonSwap",
   VITE_GLOB_APP_SHORT_NAME: "Landing_Appleswap",
   VITE_GLOB_LINK_WEB_SWAP: "https://app-lemonswap-ai.vercel.app/swap",
   VITE_GLOB_BLOG_API: "https://blog.sbgroup.finance/api",
